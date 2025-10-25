@@ -1,0 +1,3432 @@
+{
+    "documents": [
+        {
+            "id": 1,
+            "name": "Soporte de Pago",
+            "sourceSystemName": "Raptor"
+        },
+        {
+            "id": 2,
+            "name": "Contrato",
+            "sourceSystemName": "Hutz"
+        },
+        {
+            "id": 3,
+            "name": "XML de Soporte No Obligados CO",
+            "sourceSystemName": "PigeonCO"
+        },
+        {
+            "id": 4,
+            "name": "Certificado de Retención en la Fuente EC",
+            "sourceSystemName": "PigeonEC"
+        },
+        {
+            "id": 254,
+            "name": "Planilla de Aportes Seguridad Social CO",
+            "sourceSystemName": "ChannelsBO"
+        },
+        {
+            "id": 1689,
+            "name": "Adjuntos de la factura AP",
+            "sourceSystemName": "OracleApexInvoice"
+        },
+        {
+            "id": 1979,
+            "name": "Orden de Pago AP",
+            "sourceSystemName": "OracleApexPayOrder"
+        },
+        {
+            "id": 1980,
+            "name": "Adjuntos de la orden de compra PO",
+            "sourceSystemName": "OracleApexPurchaseOrders"
+        },
+        {
+            "id": 1981,
+            "name": "Contabilización de Pago AP",
+            "sourceSystemName": "OracleApexPaymentAccount"
+        },
+        {
+            "id": 1982,
+            "name": "Contabilización de la factura AP",
+            "sourceSystemName": "OracleApexInvoiceAccount"
+        }
+    ],
+    "results": [
+        {
+            "id": 1,
+            "supplierName": "GOOGLE ARGENTINA S.R.L.",
+            "counterPartsNames": "",
+            "tradeNames": "",
+            "countries": [
+                "AR"
+            ],
+            "totals": [
+                {
+                    "documentId": 2,
+                    "total": 22
+                },
+                {
+                    "documentId": 1689,
+                    "total": 33
+                },
+                {
+                    "documentId": 1979,
+                    "total": 38
+                },
+                {
+                    "documentId": 1981,
+                    "total": 38
+                },
+                {
+                    "documentId": 1982,
+                    "total": 33
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "7446a615-11ac-4b50-a7d8-c74548bbafc1",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20160223103705461000000011603_Formulario de Pedido Google Analytics Premium carta de aceptación.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/247&fileName=20160223103705461000000011603_Formulario de Pedido Google Analytics Premium carta de aceptación.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/247"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "8fa18a0b-dfda-4be0-9351-014bcc9c8a3f",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20171222191228962000000000065_Formulario de Pedido Google Analytics 360 carta de aceptación.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/248&fileName=20171222191228962000000000065_Formulario de Pedido Google Analytics 360 carta de aceptación.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/248"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c31d8336-9fbb-434b-9d28-cfa2d0c1fbf1",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20160113085610905000000004427_CONTRATO.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1254&fileName=20160113085610905000000004427_CONTRATO.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1254"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "124a065d-25db-4ef0-b5c4-6fdee01e30dd",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20171222191202536000000000041_Formulario de Pedido Google Analytics 360 carta oferta.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1255&fileName=20171222191202536000000000041_Formulario de Pedido Google Analytics 360 carta oferta.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1255"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d9e1b4b7-6937-4b0e-9e6f-bb6c965f2db8",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20160223103631511000000011553_Formulario de Pedido Google Analytics Premium carta oferta.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1256&fileName=20160223103631511000000011553_Formulario de Pedido Google Analytics Premium carta oferta.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1256"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "a9cc2de2-d121-4bd2-94bc-e259e961f22e",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20160219163911977000000014438_Carta de aceptación.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1397&fileName=20160219163911977000000014438_Carta de aceptación.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1397"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "946948ea-c7c3-44f7-aad0-2e50047ef4dc",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20160219163828765000000014405_Carta oferta.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1398&fileName=20160219163828765000000014405_Carta oferta.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1398"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "ee533746-c58b-485b-ba72-f4f23da0a486",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20170131131845484000000020997_Carta oferta.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1010&fileName=20170131131845484000000020997_Carta oferta.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1010"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "43726e59-a668-4deb-bc99-ae52ecb8bde9",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20170131131915202000000021021_Carta de aceptación.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1011&fileName=20170131131915202000000021021_Carta de aceptación.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/1011"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "b84e888e-6528-4b9a-b006-1bb23a93a542",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20171214161759640000000001230_Carta de aceptación.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/965&fileName=20171214161759640000000001230_Carta de aceptación.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/965"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "df4a2300-058e-45d6-a8e3-42de1ebf9d9f",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20171214161729859000000001193_Carta oferta.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2071&fileName=20171214161729859000000001193_Carta oferta.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2071"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c5ef669a-ecd5-4ee4-92c7-8cf3ec7ba368",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "PESA_Despegar 360.pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2569&fileName=PESA_Despegar 360.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2569"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c795f1ca-05cc-413b-bd6f-956ecc1af7fe",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Despegar Project Hornero - AW Authorization Letter - Template (legal approved 2).pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2328&fileName=Despegar Project Hornero - AW Authorization Letter - Template (legal approved 2).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2328"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "38b2976a-8304-4e1a-a551-8f742f9b2e9a",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Despegar Project Hornero - AW Authorization Letter - Template (28_3).pdf"
+                        },
+                        {
+                            "description": "TEDESCO_MIGRATION"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2329&fileName=Despegar Project Hornero - AW Authorization Letter - Template (28_3).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2329"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "8cb17137-6a26-412d-bbca-fc54ca441a05",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "PESA_Binder411291019.pdf"
+                        },
+                        {
+                            "description": "Carta oferta"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2776&fileName=PESA_Binder411291019.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2776"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "4a77eff8-b294-4d6f-86f3-18ff262b72b8",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Aceptacion Google Analytics.docx.pdf"
+                        },
+                        {
+                            "description": "Carta de aceptación"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2777&fileName=Aceptacion Google Analytics.docx.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/2777"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "86bc0a09-94a1-499f-af4d-ca19943095ee",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "20160113085610905000000004427_CONTRATO APA.pdf"
+                        },
+                        {
+                            "description": ""
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/3265&fileName=20160113085610905000000004427_CONTRATO APA.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/3265"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "f81d8000-d556-49f4-9e7a-4d071036e692",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "PESA[Argentina] GMP Extension Addendum - Spanish - Despegar (1) (2).pdf"
+                        },
+                        {
+                            "description": "2021-09-16 Adenda de prórroga"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4253&fileName=PESA[Argentina] GMP Extension Addendum - Spanish - Despegar (1) (2).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4253"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "ae6376fd-9cc9-4b58-8a8c-41b7bd95f88f",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Carta de aceptación.docx.pdf"
+                        },
+                        {
+                            "description": "2021-09-16 Carta de aceptación"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4254&fileName=Carta de aceptación.docx.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4254"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "f978cecf-0519-41f7-a716-f28e9074e9b1",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Con-0003994 (1).pdf"
+                        },
+                        {
+                            "description": ""
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/3756&fileName=Con-0003994 (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/3756"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c11e6748-28ff-4aa6-b1eb-e28c82f429ff",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Despegar_Google_Argentina_Data_Transfer_Google_Ad_Manager_360_Adenda_081023.pdf"
+                        },
+                        {
+                            "description": "Oferta Adenda Data Transfer"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/5824&fileName=Despegar_Google_Argentina_Data_Transfer_Google_Ad_Manager_360_Adenda_081023.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/5824"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "bc887556-50d3-4e5d-b5d2-d831503eaf9e",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Despegar_Google_Argentina_Data_Transfer_Google_Ad_Manager_Carta_de_Aceptacion_081023 (1) (1).pdf"
+                        },
+                        {
+                            "description": "Aceptacion oferta"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/5825&fileName=Despegar_Google_Argentina_Data_Transfer_Google_Ad_Manager_Carta_de_Aceptacion_081023 (1) (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/5825"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "291d1ee8-f7cc-43ab-accf-4d06332c4ce8",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "5306981998"
+                        },
+                        {
+                            "invDate": "2025-07-01"
+                        },
+                        {
+                            "amount": "-10260.39"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26597541&fileName=5306981998.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26597541?fileName=5306981998.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "2f5d782d-c122-419b-aaf4-2fb0d897f3fa",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-00838332"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "0.00"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845381&fileName=A-0011-00838332.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845381?fileName=A-0011-00838332.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "f3f4411f-3c88-4b9c-8711-fced00c15b85",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01168491"
+                        },
+                        {
+                            "invDate": "2025-05-31"
+                        },
+                        {
+                            "amount": "33336993.92"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26317247&fileName=A-0011-01168491.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26317247?fileName=A-0011-01168491.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c0ae09de-0b71-4852-833a-44bfd721d45d",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01172925"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "0.00"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845377&fileName=A-0011-01172925.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845377?fileName=A-0011-01172925.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "3b0e7e12-495f-4460-8714-7676bcc12ac2",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01173507"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "0.00"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845376&fileName=A-0011-01173507.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845376?fileName=A-0011-01173507.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d0ed85cf-9b99-4670-ae2b-e1dc030bbacf",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "invDate": "2025-07-31"
+                        },
+                        {
+                            "amount": "37831188.30"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26985972&fileName=A-0011-01187534.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26985972?fileName=A-0011-01187534.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "651204d6-c4b8-402d-8113-5c3cdf7697a2",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01188497"
+                        },
+                        {
+                            "invDate": "2025-07-31"
+                        },
+                        {
+                            "amount": "1312925540.49"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26922505&fileName=A-0011-01188497.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26922505?fileName=A-0011-01188497.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "56260e21-4021-40f5-b62a-155513d639bb",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01199211"
+                        },
+                        {
+                            "invDate": "2025-07-31"
+                        },
+                        {
+                            "amount": "4250088.35"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26922508&fileName=A-0011-01199211.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26922508?fileName=A-0011-01199211.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "01f4e5d8-02e9-43c9-8381-eb84d90fab6b",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01209525"
+                        },
+                        {
+                            "invDate": "2025-08-31"
+                        },
+                        {
+                            "amount": "650657.20"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27294026&fileName=A-0011-01209525.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27294026?fileName=A-0011-01209525.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "5a318e50-14dc-4105-b721-5eb673e13d0b",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00828782"
+                        },
+                        {
+                            "invDate": "2025-05-31"
+                        },
+                        {
+                            "amount": "-1132.96"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152041&fileName=A0011-00828782.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152041?fileName=A0011-00828782.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "a4a16e6b-3354-410b-a064-439ac59e2bb5",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00829014"
+                        },
+                        {
+                            "invDate": "2025-05-31"
+                        },
+                        {
+                            "amount": "-1176.78"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152038&fileName=A0011-00829014.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152038?fileName=A0011-00829014.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "9043f50f-3d03-4011-a194-08d6b6f0481c",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00838332"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "-5341.06"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850647&fileName=A0011-00838332.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850647?fileName=A0011-00838332.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "5e8a83f8-82bb-43ca-b320-2ac88bfabcf5",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "-184017.86"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850631&fileName=A0011-00839372.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850631?fileName=A0011-00839372.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "39faa420-4a13-45c8-aecc-0de4988dab0d",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "invDate": "2025-07-31"
+                        },
+                        {
+                            "amount": "-144898.94"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27006691&fileName=A0011-00847718.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27006691?fileName=A0011-00847718.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d910b1d3-40d8-4aee-8975-a97e51f5eaae",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "invDate": "2025-07-31"
+                        },
+                        {
+                            "amount": "-2867.77"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27005081&fileName=A0011-00856830.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27005081?fileName=A0011-00856830.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c703553d-474c-4c34-80fc-89c2a562fc08",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158515"
+                        },
+                        {
+                            "invDate": "2025-05-31"
+                        },
+                        {
+                            "amount": "68061.27"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152039&fileName=A0011-01158515.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152039?fileName=A0011-01158515.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "fa985c54-2bf3-473a-ab6c-6b273595f1a1",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158675"
+                        },
+                        {
+                            "invDate": "2025-05-31"
+                        },
+                        {
+                            "amount": "95489221.71"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152040&fileName=A0011-01158675.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152040?fileName=A0011-01158675.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "91d034dc-2722-4889-91ee-ea3af0092cd3",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01159235"
+                        },
+                        {
+                            "invDate": "2025-05-31"
+                        },
+                        {
+                            "amount": "638906.65"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152042&fileName=A0011-01159235.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26152042?fileName=A0011-01159235.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "1bb6131c-6c75-4933-987e-faa4281be8fc",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01166890"
+                        },
+                        {
+                            "invDate": "2025-05-31"
+                        },
+                        {
+                            "amount": "1291234833.01"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26314788&fileName=A0011-01166890.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26314788?fileName=A0011-01166890.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "35cfc054-c390-4f17-a7f4-334289f54750",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172895"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "68000.75"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850642&fileName=A0011-01172895.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850642?fileName=A0011-01172895.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "e8cb636c-c47e-4980-911a-9805a641c3b1",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172925"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "2759614.01"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850651&fileName=A0011-01172925.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850651?fileName=A0011-01172925.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "2fa937e0-e141-4d20-bd0a-65d68d95b988",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01173507"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "647809.53"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850841&fileName=A0011-01173507.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850841?fileName=A0011-01173507.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "82eed42a-3910-4886-9837-bc5617d2b302",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01174182"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "1034711642.77"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850637&fileName=A0011-01174182.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850637?fileName=A0011-01174182.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "5fc9ccfd-3e74-4567-8159-dd46b01ddbc7",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01181043"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "37702097.22"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850590&fileName=A0011-01181043.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26850590?fileName=A0011-01181043.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "59e11d89-a518-44df-bee7-8529cb29378e",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "invDate": "2025-07-31"
+                        },
+                        {
+                            "amount": "63778.85"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27003669&fileName=A0011-01186184.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27003669?fileName=A0011-01186184.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "9ed6ef2f-3543-4aa3-8710-c31c8458df1e",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186516"
+                        },
+                        {
+                            "invDate": "2025-07-31"
+                        },
+                        {
+                            "amount": "656035.85"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26922503&fileName=A0011-01186516.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26922503?fileName=A0011-01186516.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "1a5fe587-46d7-4611-94d4-ddaa2d243079",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01199531"
+                        },
+                        {
+                            "invDate": "2025-08-31"
+                        },
+                        {
+                            "amount": "3188130.77"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27359831&fileName=A0011-01199531.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27359831?fileName=A0011-01199531.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "f914c5b5-f5f7-4d03-9340-cfa21040cb52",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01203529"
+                        },
+                        {
+                            "invDate": "2025-08-31"
+                        },
+                        {
+                            "amount": "1486098934.88"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27391597&fileName=A0011-01203529.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27391597?fileName=A0011-01203529.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "231e02ae-d2b8-480c-a6e1-9a29897013dc",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01206302"
+                        },
+                        {
+                            "invDate": "2025-08-31"
+                        },
+                        {
+                            "amount": "38306120.14"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27405745&fileName=A0011-01206302.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27405745?fileName=A0011-01206302.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "aaa05b46-63d9-47e8-8884-38650c61657a",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-0199493"
+                        },
+                        {
+                            "invDate": "2025-08-31"
+                        },
+                        {
+                            "amount": "76283.11"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27405208&fileName=A0011-0199493.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/27405208?fileName=A0011-0199493.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "18d41a50-2a95-476c-be8d-1d63a0523223",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "CANCELADA 043"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "0.00"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845375&fileName=CANCELADA 043.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845375?fileName=CANCELADA 043.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "dae241d9-1cd9-41a5-86d1-ed11091db995",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "CANCELADA 182"
+                        },
+                        {
+                            "invDate": "2025-06-30"
+                        },
+                        {
+                            "amount": "0.00"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845379&fileName=CANCELADA 182.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26845379?fileName=CANCELADA 182.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "3be90e6c-9672-45d7-8dbd-c8ecd6f67830",
+                    "documentId": 1689,
+                    "values": [
+                        {
+                            "invoiceNumber": "Q0001-06072025"
+                        },
+                        {
+                            "invDate": "2025-07-06"
+                        },
+                        {
+                            "amount": "35441113.91"
+                        },
+                        {
+                            "currency": "ARS"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26548487&fileName=Q0001-06072025.zip"
+                        },
+                        {
+                            "internalDownloadUrl": "https://ebs-fsservices.despegar.com/ordsp/xx_apex/ebs/rest/ap/inv/v1/attachment/26548487?fileName=Q0001-06072025.zip"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "bf4ef0fa-a0ba-4c39-b019-ae72d083b830",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "5306981998"
+                        },
+                        {
+                            "fileName": "OrdenPago_5306981998.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3976979&fileName=OrdenPago_5306981998.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3976979?fileName=OrdenPago_5306981998.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "30efabdb-fc0c-42f7-9ec3-b45ecde78b9f",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01168491"
+                        },
+                        {
+                            "fileName": "OrdenPago_A-0011-01168491.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3776702&fileName=OrdenPago_A-0011-01168491.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3776702?fileName=OrdenPago_A-0011-01168491.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "22bf3eb4-fe46-4be3-89ca-6d78eec466e2",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "fileName": "OrdenPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A-0011-01187534.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c2410d00-588e-41aa-86c3-1c0bfe295668",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "fileName": "OrdenPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A-0011-01187534.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "ac0e369b-02c4-4a64-b6c8-b87b564be142",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "fileName": "OrdenPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043396&fileName=OrdenPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043396?fileName=OrdenPago_A-0011-01187534.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c3d2a1e7-96b4-4ade-b690-cf49214b20ca",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01188497"
+                        },
+                        {
+                            "fileName": "OrdenPago_A-0011-01188497.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3993789&fileName=OrdenPago_A-0011-01188497.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3993789?fileName=OrdenPago_A-0011-01188497.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "964f0599-f7bb-4a7b-b728-41c1c4ffb12f",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01199211"
+                        },
+                        {
+                            "fileName": "OrdenPago_A-0011-01199211.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3993789&fileName=OrdenPago_A-0011-01199211.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3993789?fileName=OrdenPago_A-0011-01199211.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "0fafb565-842c-4a74-8df2-84961b3c6731",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01209525"
+                        },
+                        {
+                            "fileName": "OrdenPago_A-0011-01209525.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4122579&fileName=OrdenPago_A-0011-01209525.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4122579?fileName=OrdenPago_A-0011-01209525.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "18b390de-6689-451c-9496-8dd33143a4fd",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00828782"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00828782.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3706678&fileName=OrdenPago_A0011-00828782.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3706678?fileName=OrdenPago_A0011-00828782.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "21315e87-e484-478d-a133-ed2b1d75d572",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00829014"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00829014.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3706678&fileName=OrdenPago_A0011-00829014.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3706678?fileName=OrdenPago_A0011-00829014.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "9f716d17-377a-448e-86c1-c5956980e343",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00838332"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00838332.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3976979&fileName=OrdenPago_A0011-00838332.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3976979?fileName=OrdenPago_A0011-00838332.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "cfba70e5-29c1-4e9c-a15a-e1ac6aabb17e",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-00839372.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "99ddf68b-3abb-43c0-9615-d3183ecd58d3",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-00839372.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "6b84cac8-4e9c-453c-83dc-c4856aefeb15",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043396&fileName=OrdenPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043396?fileName=OrdenPago_A0011-00839372.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "24ddde92-76d4-448f-a2e3-b28c1c6c60c7",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-00847718.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "ec61058a-2ae3-4e62-ae21-d59a2b4547a6",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-00847718.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "b053fc50-8908-4002-9813-f9d485964bc1",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043396&fileName=OrdenPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043396?fileName=OrdenPago_A0011-00847718.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "ecf4fb0f-2bf3-4fce-95fe-3777e3dd5aed",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-00856830.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "183a7541-fd70-457c-968e-850a4165f343",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-00856830.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "f093ce4f-5bc0-4d75-a1c4-887769ed166c",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043396&fileName=OrdenPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043396?fileName=OrdenPago_A0011-00856830.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "1100429d-381b-4742-978d-c10bd03acb85",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158515"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01158515.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3706678&fileName=OrdenPago_A0011-01158515.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3706678?fileName=OrdenPago_A0011-01158515.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "2d18718e-b4b0-4994-afb5-322ed49485bb",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158675"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01158675.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3776702&fileName=OrdenPago_A0011-01158675.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3776702?fileName=OrdenPago_A0011-01158675.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "244b0678-cd4c-4b9e-929a-66798bc113e4",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01159235"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01159235.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3706678&fileName=OrdenPago_A0011-01159235.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3706678?fileName=OrdenPago_A0011-01159235.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "6d4774c7-a9a4-4800-927b-b9ef1db122ff",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01166890"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01166890.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3776702&fileName=OrdenPago_A0011-01166890.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3776702?fileName=OrdenPago_A0011-01166890.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "782482e2-dab0-41e4-a72c-f6e12572a8a1",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172895"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01172895.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3976979&fileName=OrdenPago_A0011-01172895.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3976979?fileName=OrdenPago_A0011-01172895.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "77ec5614-511c-42df-b941-e77ae783663d",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172925"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01172925.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3976979&fileName=OrdenPago_A0011-01172925.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3976979?fileName=OrdenPago_A0011-01172925.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "6f9263aa-0b63-4d43-b397-5fc1c6cabddc",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01173507"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01173507.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3976979&fileName=OrdenPago_A0011-01173507.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3976979?fileName=OrdenPago_A0011-01173507.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c5560d56-76aa-48a6-b886-67352df1f247",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01174182"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01174182.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3993789&fileName=OrdenPago_A0011-01174182.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3993789?fileName=OrdenPago_A0011-01174182.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c2daefe7-a4ac-4c8a-b929-d3ef8c4363a9",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01181043"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01181043.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3993789&fileName=OrdenPago_A0011-01181043.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3993789?fileName=OrdenPago_A0011-01181043.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "0e754144-ab52-4204-88ae-46f00087cd65",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-01186184.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d2be957c-9b93-431d-9720-f8178b0a64f4",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043282&fileName=OrdenPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043282?fileName=OrdenPago_A0011-01186184.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "885aeff4-a147-4bc5-b436-ca23e30caac5",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4043396&fileName=OrdenPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4043396?fileName=OrdenPago_A0011-01186184.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "264ba3e0-0223-4dfa-a9b2-e25796bbd772",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186516"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01186516.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3993789&fileName=OrdenPago_A0011-01186516.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3993789?fileName=OrdenPago_A0011-01186516.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c648b247-ded1-4d35-af75-12c810c9932a",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01199531"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01199531.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4122579&fileName=OrdenPago_A0011-01199531.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4122579?fileName=OrdenPago_A0011-01199531.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "aa570ce6-ff99-4588-b29d-b9e37b32fe80",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01203529"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01203529.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4122579&fileName=OrdenPago_A0011-01203529.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4122579?fileName=OrdenPago_A0011-01203529.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "9ed07339-301a-4a82-8322-5ba11168d04b",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01206302"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-01206302.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4122579&fileName=OrdenPago_A0011-01206302.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4122579?fileName=OrdenPago_A0011-01206302.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "48bcc39c-741f-4048-aa80-6c9a44b75286",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-0199493"
+                        },
+                        {
+                            "fileName": "OrdenPago_A0011-0199493.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/4122579&fileName=OrdenPago_A0011-0199493.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/4122579?fileName=OrdenPago_A0011-0199493.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "69210eb8-12e5-4fa2-b656-05f7fe892784",
+                    "documentId": 1979,
+                    "values": [
+                        {
+                            "invoiceNumber": "Q0001-06072025"
+                        },
+                        {
+                            "fileName": "OrdenPago_Q0001-06072025.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-pay-order.com/watson/download/3877721&fileName=OrdenPago_Q0001-06072025.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-pay-order.com/watson/download/3877721?fileName=OrdenPago_Q0001-06072025.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "a7da4faa-e37a-4a58-9f1e-2293faea574a",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "5306981998"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_5306981998.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3976979&fileName=ContabilizacionPago_5306981998.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3976979?fileName=ContabilizacionPago_5306981998.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "a0ab2f8b-15da-4a00-a83a-736b35d28ccc",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01168491"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01168491.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3776702&fileName=ContabilizacionPago_A-0011-01168491.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3776702?fileName=ContabilizacionPago_A-0011-01168491.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "6b12767d-b29f-4f5f-89ff-5f2b99237655",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "32f49e2d-c03c-413e-aee4-61c10be5b2da",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "32088575-24ce-4274-98df-15299216be81",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043396&fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043396?fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "02939ed6-938d-4be0-8a06-f34aa1738ed0",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01188497"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01188497.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3993789&fileName=ContabilizacionPago_A-0011-01188497.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3993789?fileName=ContabilizacionPago_A-0011-01188497.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "596f48b6-963b-4fee-b9dc-dc8794ef74c2",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01199211"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01199211.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3993789&fileName=ContabilizacionPago_A-0011-01199211.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3993789?fileName=ContabilizacionPago_A-0011-01199211.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "dd434e84-2c73-4e1e-9c5a-161ceaf7bf1e",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01209525"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01209525.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4122579&fileName=ContabilizacionPago_A-0011-01209525.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4122579?fileName=ContabilizacionPago_A-0011-01209525.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "52fdaf10-f9a1-4f67-85d3-6ac4e0cc2859",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00828782"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00828782.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3706678&fileName=ContabilizacionPago_A0011-00828782.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3706678?fileName=ContabilizacionPago_A0011-00828782.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "a0f6a034-4869-4857-94ba-ba80a484ccd7",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00829014"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00829014.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3706678&fileName=ContabilizacionPago_A0011-00829014.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3706678?fileName=ContabilizacionPago_A0011-00829014.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "20c76640-f23f-413b-85ce-7be6fbbe1a10",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00838332"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00838332.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3976979&fileName=ContabilizacionPago_A0011-00838332.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3976979?fileName=ContabilizacionPago_A0011-00838332.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "0f1a7cbf-3676-4e4d-a022-cfafb500e3f4",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "99ca2262-a626-45a8-8910-747883972034",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "76295b15-b21b-40f0-a20d-61de08d25cca",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043396&fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043396?fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "3cd1e712-35b2-461a-a83b-ccec49c87811",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c6d76b3c-5326-4312-bbeb-dad1c42d8099",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "40141236-b16c-4465-87c0-ac68d46243f5",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043396&fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043396?fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "35191ca0-d595-4905-aa6d-78d7bf33d43c",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "a9086861-a564-4e67-9b0c-a6e80412729c",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "ad3ba7d9-b038-45a6-b162-d85fbf405f2c",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043396&fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043396?fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "1677e98c-710d-4c91-ae3d-1072692f44fb",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158515"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01158515.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3706678&fileName=ContabilizacionPago_A0011-01158515.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3706678?fileName=ContabilizacionPago_A0011-01158515.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "18fccaf5-ac93-4664-896e-b3531b1b88be",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158675"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01158675.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3776702&fileName=ContabilizacionPago_A0011-01158675.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3776702?fileName=ContabilizacionPago_A0011-01158675.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "2dd26df1-0f55-4275-b9ec-7b3d42be7b75",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01159235"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01159235.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3706678&fileName=ContabilizacionPago_A0011-01159235.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3706678?fileName=ContabilizacionPago_A0011-01159235.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "705d29f2-fa91-47f2-920d-c4fc99a6d6cc",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01166890"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01166890.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3776702&fileName=ContabilizacionPago_A0011-01166890.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3776702?fileName=ContabilizacionPago_A0011-01166890.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "331bbf7f-7aca-421f-a047-62399a96396a",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172895"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01172895.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3976979&fileName=ContabilizacionPago_A0011-01172895.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3976979?fileName=ContabilizacionPago_A0011-01172895.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "750f6ba5-b675-4aba-9277-cf45b92fbd99",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172925"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01172925.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3976979&fileName=ContabilizacionPago_A0011-01172925.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3976979?fileName=ContabilizacionPago_A0011-01172925.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "011704e2-ace0-4d27-b424-c86acc74fdce",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01173507"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01173507.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3976979&fileName=ContabilizacionPago_A0011-01173507.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3976979?fileName=ContabilizacionPago_A0011-01173507.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "8e0d7d7c-ef80-4db3-a57e-b1983e372a24",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01174182"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01174182.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3993789&fileName=ContabilizacionPago_A0011-01174182.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3993789?fileName=ContabilizacionPago_A0011-01174182.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "4d48c7c5-bcc4-4c61-891d-7703aa4c49c5",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01181043"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01181043.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3993789&fileName=ContabilizacionPago_A0011-01181043.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3993789?fileName=ContabilizacionPago_A0011-01181043.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "46f5ad18-61e4-4588-b06c-580424483c7d",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "8b8f33a3-4f77-4c47-a9a0-a6a8d0177b08",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043282&fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043282?fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "006b0c44-9fe8-47af-b5e1-f4c60e6254b7",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4043396&fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4043396?fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "203f5029-e996-47db-b99b-e787a837fb99",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186516"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01186516.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3993789&fileName=ContabilizacionPago_A0011-01186516.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3993789?fileName=ContabilizacionPago_A0011-01186516.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "407af6df-7702-4f96-bdb5-99b2927bb59f",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01199531"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01199531.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4122579&fileName=ContabilizacionPago_A0011-01199531.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4122579?fileName=ContabilizacionPago_A0011-01199531.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "fb86443b-42ea-4c62-9d9e-57cb5c84ac04",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01203529"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01203529.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4122579&fileName=ContabilizacionPago_A0011-01203529.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4122579?fileName=ContabilizacionPago_A0011-01203529.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "a3f76e14-eac6-4bca-a693-1eb7c951cc7e",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01206302"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01206302.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4122579&fileName=ContabilizacionPago_A0011-01206302.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4122579?fileName=ContabilizacionPago_A0011-01206302.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "917c7e41-3d9b-4c37-85c9-9c1d6567e9b1",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-0199493"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-0199493.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/4122579&fileName=ContabilizacionPago_A0011-0199493.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/4122579?fileName=ContabilizacionPago_A0011-0199493.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "b3bce9c2-6052-4acc-bb36-ca4e6cebd19e",
+                    "documentId": 1981,
+                    "values": [
+                        {
+                            "invoiceNumber": "Q0001-06072025"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_Q0001-06072025.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-payment-accounting.com/watson/download/3877721&fileName=ContabilizacionPago_Q0001-06072025.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-payment-accounting.com/watson/download/3877721?fileName=ContabilizacionPago_Q0001-06072025.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d9a26ebb-0372-4de2-b563-22c09bea4612",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "5306981998"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_5306981998.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26597541&fileName=ContabilizacionPago_5306981998.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26597541?fileName=ContabilizacionPago_5306981998.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "326d8b9a-5332-43d9-8911-a3433e1a87e8",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-00838332"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-00838332.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26845381&fileName=ContabilizacionPago_A-0011-00838332.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26845381?fileName=ContabilizacionPago_A-0011-00838332.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "45b3452e-dca4-49f0-ac6b-c00966241fc2",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01168491"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01168491.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26317247&fileName=ContabilizacionPago_A-0011-01168491.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26317247?fileName=ContabilizacionPago_A-0011-01168491.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "b6f25841-47e6-4c7b-852f-3e282ef611ce",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01172925"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01172925.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26845377&fileName=ContabilizacionPago_A-0011-01172925.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26845377?fileName=ContabilizacionPago_A-0011-01172925.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "0b7d9003-50a0-4bfc-a5f5-2f16248f3f32",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01173507"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01173507.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26845376&fileName=ContabilizacionPago_A-0011-01173507.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26845376?fileName=ContabilizacionPago_A-0011-01173507.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d5f84e82-85db-410c-804c-533027de831f",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01187534"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26985972&fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26985972?fileName=ContabilizacionPago_A-0011-01187534.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "0c218740-fcd6-4de9-b584-11076f1699aa",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01188497"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01188497.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26922505&fileName=ContabilizacionPago_A-0011-01188497.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26922505?fileName=ContabilizacionPago_A-0011-01188497.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "7b02824c-fc7b-4f1f-8275-f0cae9ad9156",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01199211"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01199211.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26922508&fileName=ContabilizacionPago_A-0011-01199211.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26922508?fileName=ContabilizacionPago_A-0011-01199211.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "b65533b6-d4af-4df3-a1de-459a177ab739",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A-0011-01209525"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A-0011-01209525.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27294026&fileName=ContabilizacionPago_A-0011-01209525.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27294026?fileName=ContabilizacionPago_A-0011-01209525.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "0c00cfee-703b-4687-9edf-75175468fa20",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00828782"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00828782.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26152041&fileName=ContabilizacionPago_A0011-00828782.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26152041?fileName=ContabilizacionPago_A0011-00828782.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "49841923-eb7f-4075-9fa5-3f722fd0e843",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00829014"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00829014.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26152038&fileName=ContabilizacionPago_A0011-00829014.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26152038?fileName=ContabilizacionPago_A0011-00829014.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "df10cd4c-8b9d-4d12-9401-43c20db34dfb",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00838332"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00838332.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26850647&fileName=ContabilizacionPago_A0011-00838332.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26850647?fileName=ContabilizacionPago_A0011-00838332.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "58cbad77-017b-4bc8-81b9-32278fd5bd21",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00839372"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26850631&fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26850631?fileName=ContabilizacionPago_A0011-00839372.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "af8657c3-73a5-4727-8458-f10adc72770f",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00847718"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27006691&fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27006691?fileName=ContabilizacionPago_A0011-00847718.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "02820f53-9ef5-4711-8bd9-b34b13d05f45",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-00856830"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27005081&fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27005081?fileName=ContabilizacionPago_A0011-00856830.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "50e89d55-5d5f-4720-bc5b-36f26e1bf2d7",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158515"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01158515.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26152039&fileName=ContabilizacionPago_A0011-01158515.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26152039?fileName=ContabilizacionPago_A0011-01158515.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "74a6e16c-f002-4cf9-bce3-43c65532a361",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01158675"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01158675.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26152040&fileName=ContabilizacionPago_A0011-01158675.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26152040?fileName=ContabilizacionPago_A0011-01158675.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "5b514d38-8f0f-46f3-86a5-5916a94f9e3b",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01159235"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01159235.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26152042&fileName=ContabilizacionPago_A0011-01159235.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26152042?fileName=ContabilizacionPago_A0011-01159235.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "fcff8e08-466d-41b8-b827-4c6fce4ea0e9",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01166890"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01166890.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26314788&fileName=ContabilizacionPago_A0011-01166890.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26314788?fileName=ContabilizacionPago_A0011-01166890.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "760e39be-f3c7-43a6-8f20-9714b2db9310",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172895"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01172895.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26850642&fileName=ContabilizacionPago_A0011-01172895.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26850642?fileName=ContabilizacionPago_A0011-01172895.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "7e4c112f-4037-41d7-8d8e-dc0d0c2be51e",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01172925"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01172925.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26850651&fileName=ContabilizacionPago_A0011-01172925.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26850651?fileName=ContabilizacionPago_A0011-01172925.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "b2d43c53-1791-43e6-8db7-75a18dca814b",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01173507"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01173507.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26850841&fileName=ContabilizacionPago_A0011-01173507.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26850841?fileName=ContabilizacionPago_A0011-01173507.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c284d7cd-a1e9-4052-a3cd-cd709898178a",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01174182"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01174182.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26850637&fileName=ContabilizacionPago_A0011-01174182.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26850637?fileName=ContabilizacionPago_A0011-01174182.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "08cc97f3-dd54-490c-a81d-a70eab3c2db9",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01181043"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01181043.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26850590&fileName=ContabilizacionPago_A0011-01181043.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26850590?fileName=ContabilizacionPago_A0011-01181043.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "588fa04d-ba99-465a-a641-b37b67b60c93",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186184"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27003669&fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27003669?fileName=ContabilizacionPago_A0011-01186184.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d7239ab2-241e-45ba-99ae-e1d28425c9fb",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01186516"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01186516.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26922503&fileName=ContabilizacionPago_A0011-01186516.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26922503?fileName=ContabilizacionPago_A0011-01186516.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "7febc1fb-1192-4ce1-a2cc-4af8dee1b40a",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01199531"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01199531.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27359831&fileName=ContabilizacionPago_A0011-01199531.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27359831?fileName=ContabilizacionPago_A0011-01199531.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "2a0dcfbd-44ae-482c-933c-33a7606cbaff",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01203529"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01203529.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27391597&fileName=ContabilizacionPago_A0011-01203529.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27391597?fileName=ContabilizacionPago_A0011-01203529.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "68a96ebe-2366-496f-b988-3b91b8a888a7",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-01206302"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-01206302.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27405745&fileName=ContabilizacionPago_A0011-01206302.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27405745?fileName=ContabilizacionPago_A0011-01206302.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "d0c73b19-0a71-4a4c-9e4e-94a3dbcad2fe",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "A0011-0199493"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_A0011-0199493.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/27405208&fileName=ContabilizacionPago_A0011-0199493.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/27405208?fileName=ContabilizacionPago_A0011-0199493.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "7cfd01fa-54dd-4890-be8f-31a5c2f96647",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "CANCELADA 043"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_CANCELADA 043.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26845375&fileName=ContabilizacionPago_CANCELADA 043.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26845375?fileName=ContabilizacionPago_CANCELADA 043.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "b24bffdd-dcef-4a04-a6c0-4de8c5147ba4",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "CANCELADA 182"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_CANCELADA 182.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26845379&fileName=ContabilizacionPago_CANCELADA 182.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26845379?fileName=ContabilizacionPago_CANCELADA 182.pdf"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "84a85805-ae52-4c49-86c8-375501d54614",
+                    "documentId": 1982,
+                    "values": [
+                        {
+                            "invoiceNumber": "Q0001-06072025"
+                        },
+                        {
+                            "fileName": "ContabilizacionPago_Q0001-06072025.pdf"
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://internal.holmes.report-invoice-accounting.com/watson/download/26548487&fileName=ContabilizacionPago_Q0001-06072025.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://internal.holmes.report-invoice-accounting.com/watson/download/26548487?fileName=ContabilizacionPago_Q0001-06072025.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "supplierName": "GOOGLE ARGENTINA S.R.L.",
+            "counterPartsNames": "GOOGLE LLC, GOOGLE BRASIL INTERNET LTDA.",
+            "tradeNames": "",
+            "countries": [
+                "AR",
+                "BR",
+                "CL",
+                "CO",
+                "EC",
+                "MX",
+                "PE",
+                "UY",
+                "US"
+            ],
+            "totals": [
+                {
+                    "documentId": 2,
+                    "total": 9
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "fc230eff-6637-46dc-96c5-74f29600b05e",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Portfolio1.pdf"
+                        },
+                        {
+                            "description": "Google Marketing Platform Agreement."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4188&fileName=Portfolio1.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4188"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "04e89e27-336e-4af1-9b66-d0545496a452",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "Portfolio2.pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Argentina."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4189&fileName=Portfolio2.pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4189"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "7f44b6da-e8b4-47ab-977c-51afe3ac48b0",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "FESA_AAA DECOLAR. COM LTDA. - Brasil Despegar (1) (1).pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Brazil."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4196&fileName=FESA_AAA DECOLAR. COM LTDA. - Brasil Despegar (1) (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4196"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "7e9dd27f-7b34-4f3e-b5ca-9afb4caf4b72",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "FESA_AAA Despegar Colombia S.A.S. (1) (1).pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Colombia."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4197&fileName=FESA_AAA Despegar Colombia S.A.S. (1) (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4197"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "c2071925-ec0a-4f0a-ad63-30e3cbea8cfc",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "FESA_AAA Despegar.com Chile SPA - (1) (1).pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Chile."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4198&fileName=FESA_AAA Despegar.com Chile SPA - (1) (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4198"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "767683d2-b4fb-4160-8ae6-5154d5a03246",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "FESA_AAA Despegar.com Mexico S.A. de C.V. Despegar MX (1).pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Mexico."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4199&fileName=FESA_AAA Despegar.com Mexico S.A. de C.V. Despegar MX (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4199"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "2d38bc11-eb68-46f8-9cd5-f77ae0b9db14",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "FESA_AAA DESPEGAR.COM PERU SAC (1) (1).pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Peru."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4200&fileName=FESA_AAA DESPEGAR.COM PERU SAC (1) (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4200"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "2ee5203c-4ea3-4dea-810c-9ad836c0030c",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "FESA_AAA DESPEGARECUADOR S.A. - Ecuador (1) (1).pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Ecuador."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4201&fileName=FESA_AAA DESPEGARECUADOR S.A. - Ecuador (1) (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4201"
+                        }
+                    ]
+                },
+                {
+                    "itemId": "3ee8d1d8-0298-4c83-85d8-a4bdf4788b01",
+                    "documentId": 2,
+                    "values": [
+                        {
+                            "fileName": "FESA_AAA Travel Reservations SRL - Despegar UY (1) (1).pdf"
+                        },
+                        {
+                            "description": "Affiliate Adopting Agreement - Uruguay (Travel Reservations)."
+                        },
+                        {
+                            "downloadUrl": "http://localhost:9290/cfa-holmes/api/search-documents/download-file?fileUrl=http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4213&fileName=FESA_AAA Travel Reservations SRL - Despegar UY (1) (1).pdf"
+                        },
+                        {
+                            "internalDownloadUrl": "http://hutz.us-east-1.despegar.net/api/contracts/respaldo/downloadContractFile/4213"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "totalResults": 2,
+    "errors": [
+        "An error occurred while processing document Planilla de Aportes Seguridad Social CO. Source System: ChannelsBO. Source System path: http://ch-bo-partner.us-east-1.despegar.net/api/partners. Error: org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 Internal Server Error: \"{<LF>  \"code\" : 500,<LF>  \"message\" : \"No static resource api/partners/partners.\"<LF>}\""
+    ],
+    "warnings": [],
+    "success": false
+}
