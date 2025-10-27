@@ -28,8 +28,8 @@ export default function DocumentSearchPage(){
     }
   };
   return (
-    <div style={{padding: 24}}>
-      <h1 style={{fontSize: 22, fontWeight: 600, marginBottom: 16}}>Holmes</h1>
+    <div style={{width: "70%", margin: "auto" }}>
+      <h1 style={{fontSize: 22, fontWeight: 600, marginBottom: 16, textAlign: "center"}}>POC-Holmes</h1>
       <SearchForm onSearch={handleSearch}/>
       <Divider/>
       {loading ? (

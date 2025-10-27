@@ -47,14 +47,15 @@ export default function SearchForm({ onSearch }: Props) {
           <Form.Item name="dataRange" label="Tango de fechas">
             <RangePicker format="DD/MM/YYYY" style={{ width: "100%" }} />
           </Form.Item>
-
-          <Col span={2} style={{ display: "flex", alignItems: "end" }}>
-            <Button type="primary" htmlType="submit" block>
-              Buscar
-            </Button>
-          </Col>
         </Col>
       </Row>
+
+      <div style={{display: "flex"}}>
+        <Button style={{ width: "35%", margin: "auto" }} type="primary" htmlType="submit" block >
+          Buscar
+        </Button>
+      </div>
+
     </Form>
   );
 }
